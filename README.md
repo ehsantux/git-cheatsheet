@@ -26,3 +26,4 @@ git revert, reverts to the previous commit and creates a new commit after that a
   
 12- In a software project, if we have several developers and each developer wants to apply and test their changes independently and isolated in the project, it creates a branch of the project for itself and after the finalization of the changes, it merges in the final branch. Merge or rebase can be used to merge two branches.
 
+[@dwsclass](https://github.com/dwsclass) dws-dev-004-git
