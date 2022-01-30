@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description.
 # git-cheatsheet
 1- Because it simplifies the process of managing and maintaining software projects and gives us capabilities such as code retention, versioning and tracking written code.
 
